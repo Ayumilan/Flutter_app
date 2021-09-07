@@ -4,6 +4,8 @@
 
 📌The aim of the application is to perform a basic k8s, docker, RHEL8 command that will be supported in a local virtual machine of RHEL8, that is connected by Python-CGI, for which we added an HTTP library in flutter code.
 
-Click here to view my linkedin post: 
+# Linkedin post
+Click here : 
 
-Click here to see the video demonstration of this task: https://drive.google.com/file/d/1LgYNRPb-1okDMWp_h4lfaTRRtpsxYrTR/view?usp=sharing
+# Video demonstration
+Click here: https://drive.google.com/file/d/1LgYNRPb-1okDMWp_h4lfaTRRtpsxYrTR/view?usp=sharing
